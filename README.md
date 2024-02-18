@@ -1,59 +1,57 @@
 ## 입9팔9
-![입구팔구 목업1](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/2a81d592-6829-48e3-98ae-335a4693d37f)
+
+![intro](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/c1baa527-2b40-4f9c-a2ed-015019d108db)
 
 <br>
 <br>
 
 # ✨배포
+
 - <a href="">🔗 [서비스링크](https://wear9sell9.netlify.app/) </a>
 - 🔒 서비스 이용을 위한 테스트 계정
 
-   - ID: 21test@test.com
-   - Password: 123456 
-<br>
-<br>
-
-## 📜목차
-[1 프로젝트 소개](#1-프로젝트-소개) <br>
-[2 팀원 소개](#2-팀원-소개-및-역할분담)<br>
-[3 개발 환경](#3-개발-환경)  <br>
-[4 팀 협업 방식](#4-팀-협업-방식)  <br>
-[5 구현 기능](#5-구현-기능)<br>
-[6 개선 노력](#6-개선-노력)  <br>
-[7 느낀점](#7-느낀점)  <br>
-<br>
-<br>
+  - ID: 21test@test.com
+  - Password: 123456
+    <br>
+    <br>
 
 # 1 프로젝트 소개
+
 <br>
 
-> `입9팔9`는 데일리룩과 취향을 공유하는 SNS로 공유한 제품판매가 가능합니다. <br>`입9팔9`는 새컨핸드 제품 사용과 지속가능한 패션을 지향합니다. 
-![이용가이드](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/1c8022b7-ee77-4fce-bb92-a6e91a0c7b52)
- <br>
- <br>
- 
-  ### [프로젝트 기간]
+> `입9팔9`는 데일리룩과 취향을 공유하는 SNS로 공유한 제품판매가 가능합니다. <br>`입9팔9`는 새컨핸드 제품 사용과 지속가능한 패션을 지향합니다.
+<br>
+
+![image](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/4cfc016f-f047-4563-bd61-ac0591caf842)
+> <br>
+> <br>
+
+### [프로젝트 기간]
+
 - 2023년 6월 1일 ~ 2023년 6월 28일
-<img width="1155" alt="스크린샷 2023-06-26 오후 3 59 50" src="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/assets/126529523/67960d65-6d1d-4a37-95b3-6ea16ee211bc">
- <br>
- <br>
+  <img width="1155" alt="스크린샷 2023-06-26 오후 3 59 50" src="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/assets/126529523/67960d65-6d1d-4a37-95b3-6ea16ee211bc">
+  <br>
+  <br>
 
 # 2 팀원 소개 및 역할분담
+
  <br>
 
-|FE 최범관|FE 박경보|FE 유하은|FE 한상헌|
-| :---: | :---: | :---: | :---: |
-| <img src="https://github.com/yonainthefish/FE05-Project-Sooryen/assets/124084624/4ac018c7-f9f3-49c1-89e8-9e0523c69919.jpg" width="170" height="170"/> | <img src="https://github.com/kyeongbobak/ibgupalgu/assets/126529523/bd045687-fcc9-40e9-a4cf-7c803ef7e260" width="170" height="170"/> | <img src="https://user-images.githubusercontent.com/124084624/249192266-dae00b28-0f85-40c2-a53c-6754c3a0ca30.png" width="170" height="170"/> | <img src="https://github.com/yonainthefish/FE05-Project-Sooryen/assets/124084624/9d2c1f67-82c0-4d91-8bf9-09be962044f4.jpg" width="170" height="170" /> |                                                          
-|  팀장 <br> <a href="https://github.com/KwanBeom"> 🔗 KwanBeom </a>| 팀원 <br> <a href="https://github.com/kyeongbobak">🔗 kyeongbobak </a> |팀원 <br> <a href="https://github.com/yonsinthefish">🔗yonainthefish </a>|팀원 <br> <a href="https://github.com/Skyllerrr">🔗 skyllerrr </a> |
-팀 리딩 & 테크리딩 | 프로젝트 기획 & 진행, 문서화 | 로고 디자인 & 피그마제작  |유효성검사 & UI 개선|
+|                                                                                                                                                                                  FE 최범관                                                                                                                                                                                   |                                                              FE 박경보                                                               |                                                                  FE 유하은                                                                   |                                                                       FE 한상헌                                                                        |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://file.notion.so/f/f/7f2f2617-10e0-459c-bb56-19558b3a1be2/225725f0-dd9d-44e1-97aa-652fd3ed98ce/Untitled.jpeg?id=81c714b5-11f8-48a0-9b68-a87d0d438e8b&table=block&spaceId=7f2f2617-10e0-459c-bb56-19558b3a1be2&expirationTimestamp=1708387200000&signature=cheKVzHna2U73RbEE8N1qevg0NAP70Qs6XY3pFH8cLE&downloadName=Untitled.jpeg" width="170" height="170"/> | <img src="https://github.com/kyeongbobak/ibgupalgu/assets/126529523/bd045687-fcc9-40e9-a4cf-7c803ef7e260" width="170" height="170"/> | <img src="https://user-images.githubusercontent.com/124084624/249192266-dae00b28-0f85-40c2-a53c-6754c3a0ca30.png" width="170" height="170"/> | <img src="https://github.com/yonainthefish/FE05-Project-Sooryen/assets/124084624/9d2c1f67-82c0-4d91-8bf9-09be962044f4.jpg" width="170" height="170" /> |
+|                                                                                                                                                      팀장 <br> <a href="https://github.com/KwanBeom"> 🔗 KwanBeom </a>                                                                                                                                                       |                                팀원 <br> <a href="https://github.com/kyeongbobak">🔗 kyeongbobak </a>                                |                                  팀원 <br> <a href="https://github.com/yonsinthefish">🔗yonainthefish </a>                                   |                                           팀원 <br> <a href="https://github.com/Skyllerrr">🔗 skyllerrr </a>                                           |
+|                                                                                                                                                                              팀 리딩 & 테크리딩                                                                                                                                                                              |                                                     프로젝트 기획 & 진행, 문서화                                                     |                                                           로고 디자인 & 피그마제작                                                           |                                                                  유효성검사 & UI 개선                                                                  |
+
 <br>
 
 ## 🐯최범관
+
 - 404에러 페이지
 - 팔로워 팔로잉 페이지 리팩토링
 - 홈피드 페이지 기능 구현
 - 게시물 상세 페이지 기능 구현
-- 상품 등록 페이지 
+- 상품 등록 페이지
 - 상품 상세 페이지
 - 상품 리스트 페이지
 - 프로필 페이지
@@ -64,25 +62,28 @@
 - 바텀 시트
 - 하단 탭바
 - 디바운싱 활용해서 유저 검색 기능 최적화
-  
+
 ## 🐱‍💻한상헌
+
 - 스플래쉬 페이지
 - 홈피드 UI
 - 유저 검색 페이지
-- 팔로워 팔로잉 페이지 
+- 팔로워 팔로잉 페이지
 - 하단 탭바
-  
+
 ## 🐠유하은
+
 - 프로젝트 디자인 총괄
-- 회원가입 페이지 
-- 게시물 업로드 페이지 
+- 회원가입 페이지
+- 게시물 업로드 페이지
 - 댓글 등록, 수정, 삭제 UI구현
 - 하단 탭바
 - 버튼 공통 컴포넌트
 - 리드미 작성
 - 발표
-  
+
 ## 🦄박경보
+
 - 서비스 컨셉 기획
 - 로그인 페이지
 - 게시물 업로드 페이지
@@ -91,46 +92,50 @@
 - 회의록 작성
 - 리드미 작성
 - 발표
-<br>
-<br>
+  <br>
+  <br>
 
 # 3 개발 환경
 
-
 ### [기술스택]
 
-|**프론트엔드**|<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>|
-| :---| :--- |
-|**백엔드**|[멋쟁이 사자처럼에서 제공받은 API 명세](https://www.notion.so/16312a05a4c7456db8073785be95cda6)|
-|**도구 및 라이브러리** | <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat-square&logo=Eslint&logoColor=white"/>  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/>  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>    
-|**협업 및 프로젝트 관리** | <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
-|**디자인** | [<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>](https://www.figma.com/file/OFzYcxwkMzX9U9ljo06ow8/21%EC%A1%B0-%ED%99%94%EC%9D%B4%EB%9D%B5!!!!?type=design&node-id=27-1212&mode=design&t=fXS6bC8hoYKtFX1v-0)   |
-  <br> 
+| **프론트엔드**            | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>                                                                                                                                                                                                                                                                                                                 |
+| :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **백엔드**                | [멋쟁이 사자처럼에서 제공받은 API 명세](https://www.notion.so/16312a05a4c7456db8073785be95cda6)                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **도구 및 라이브러리**    | <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat-square&logo=Eslint&logoColor=white"/> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> |
+| **협업 및 프로젝트 관리** | <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                   |
+| **디자인**                | [<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>](https://www.figma.com/file/OFzYcxwkMzX9U9ljo06ow8/21%EC%A1%B0-%ED%99%94%EC%9D%B4%EB%9D%B5!!!!?type=design&node-id=27-1212&mode=design&t=fXS6bC8hoYKtFX1v-0)                                                                                                                                                                                                                                                                               |
+
+  <br>
 
 ### [Git Flow]
+
 - ### MAIN/FEATURE
-<img width="572" alt="스크린샷 2023-11-29 오후 6 43 12" src="https://github.com/kyeongbobak/ibgupalgu/assets/126529523/dfee3a83-920c-454d-beab-bf1b01fc25b6">
+  ![image](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/5e8211c3-dc16-4b73-8560-accf679864d6)
 
 <br>
 
 ### [커밋컨벤션]
+
 ```
-feat        : 기능 (새로운 기능)  
-fix         : 버그 (버그 수정)  
-refactor    : 리팩토링  
-design      : CSS 등 사용자 UI 디자인 변경  
-comment     : 필요한 주석 추가 및 변경  
-style       : 스타일 (코드 형식, 세미콜론 추가: 비즈니스 로직에 변경 없음)  
-docs        : 문서 수정 (문서 추가, 수정, 삭제, README)  
-test        : 테스트 (테스트 코드 추가, 수정, 삭제: 비즈니스 로직에 변경 없음)  
-chore       : 기타 변경사항 (빌드 스크립트 수정, assets, 패키지 매니저 등)  
-init        : 초기 생성  
-rename      : 파일 혹은 폴더명을 수정하거나 옮기는 작업만 한 경우  
+feat        : 기능 (새로운 기능)
+fix         : 버그 (버그 수정)
+refactor    : 리팩토링
+design      : CSS 등 사용자 UI 디자인 변경
+comment     : 필요한 주석 추가 및 변경
+style       : 스타일 (코드 형식, 세미콜론 추가: 비즈니스 로직에 변경 없음)
+docs        : 문서 수정 (문서 추가, 수정, 삭제, README)
+test        : 테스트 (테스트 코드 추가, 수정, 삭제: 비즈니스 로직에 변경 없음)
+chore       : 기타 변경사항 (빌드 스크립트 수정, assets, 패키지 매니저 등)
+init        : 초기 생성
+rename      : 파일 혹은 폴더명을 수정하거나 옮기는 작업만 한 경우
 remove      : 파일을 삭제하는 작업만 수행한 경우
 ```
+
 <br>
 
 ### [폴더구조]
+
 ```
  입9팔9
 ├──🗃️ public
@@ -172,12 +177,13 @@ remove      : 파일을 삭제하는 작업만 수행한 경우
     ├──🗂️ style
     └──🗂️ utils
 ```
-<br>
+
 <br>
 
 ## 4 팀 협업 방식
+
 ```
-- GitHub issue : 프로젝트 작업 개선사항 및 추가 될 기능을 기록하여 작업일정을 팀원들과 공유했습니다. 
+- GitHub issue : 프로젝트 작업 개선사항 및 추가 될 기능을 기록하여 작업일정을 팀원들과 공유했습니다.
 - 데일리스크럼 : 매일 9시 ,17 금일 작업 내용과 진행 상황을 공유했습니다.
 - GitHub wiki : 팀내 공유되야 하는 정보와 회의내용을 기록하였습니다.
 - Live share : VSC 의 Live share를 사용하여 더 나은 코드를 위한 토론을 진행하였습니다.
@@ -190,50 +196,54 @@ remove      : 파일을 삭제하는 작업만 수행한 경우
 <br>
 
 ## 5 구현 기능
-<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/%F0%9F%93%91-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%83%81%EC%84%B8-%EC%84%A4%EB%AA%85#2-%EC%9D%B4%EB%A9%94%EC%9D%BC%EB%A1%9C-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%ED%94%84%EB%A1%9C%ED%95%84-%EC%84%A4%EC%A0%95">🔗 각 페이지에 대한 상세 설명 페이지로 이동하기  </a>
+
+<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/%F0%9F%93%91-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%83%81%EC%84%B8-%EC%84%A4%EB%AA%85#2-%EC%9D%B4%EB%A9%94%EC%9D%BC%EB%A1%9C-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%ED%94%84%EB%A1%9C%ED%95%84-%EC%84%A4%EC%A0%95">🔗 각 페이지에 대한 상세 설명 페이지로 이동하기 </a>
 <br>
 
 ### 1) 홈 + 채팅
-|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/%F0%9F%93%91-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%83%81%EC%84%B8-%EC%84%A4%EB%AA%85#1-splash">🔗스플래시</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#2-이메일로-회원가입프로필-설정">🔗이메일로 회원가입</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#2-이메일로-회원가입프로필-설정">🔗프로필 설정</a>|
-| :---: | :---: | :---: |
-| ![스플래시](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/cbd4a9d4-f911-4a5a-a8bd-8edddb9d3fba)|![이메일로회원가입](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/869766f1-3814-4723-b7b7-4516747ee523)|![프로필설정](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/f97dcf15-42a5-4a55-9c59-62c6d6fa52c4)|
+
+| <a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/%F0%9F%93%91-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%83%81%EC%84%B8-%EC%84%A4%EB%AA%85#1-splash">🔗스플래시</a> | <a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#2-이메일로-회원가입프로필-설정">🔗이메일로 회원가입</a> | <a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#2-이메일로-회원가입프로필-설정">🔗프로필 설정</a> |
+| :--: | :--: | :--: |
+|                              ![스플래시](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/4454fcad-47ec-499d-9c91-e573f2ebbb1c)                              |            ![이메일로회원가입](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/363ca7ec-0b4f-44b2-9aa0-367be77d32d3)            |            ![프로필세팅](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/7b54848c-bb27-4599-89bb-6f0357026c6e)            |
 |<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#3-로그인">🔗로그인</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#4-홈피드">🔗홈피드</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#5-검색">🔗유저검색</a>|
-|![로그인](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/b7c183d2-7950-47d3-be11-93109d26ecbf)|![홈피드](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/1c0c4279-cc24-465e-b2b9-5e89eaac7831)|![유저검색](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/276a6dbe-43ee-4a5b-bee0-35ae27c0496d)|
+|![로그인](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/738703f7-6bb3-4f51-80e4-cdd8f5b42ffd)| ![홈피드](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/ae1d79b2-70ff-4807-bc4a-85f069fcb7d8)| ![유저검색](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/3432bafc-c0d2-4575-98e7-202d79917910)|
 |<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#3-로그인">🔗로딩페이지</a>|
-|![로딩](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/5a79f37a-5ce6-4d50-89cf-c0e854470988)|
+|![로딩](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/1620985a-9976-4882-9d96-110b55c6a036)|
 <br>
 
 ### 2) 게시물
-|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#1-게시물-등록">🔗게시물등록(다중선택 가능)</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#2-게시물-상세-페이지">🔗게시글 수정/삭제</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#2-게시물-상세-페이지">🔗게시글 상세</a>|
-| :---: | :---: | :---: |
-| ![다중선택최종](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/40824aa2-ced8-4fd7-8e13-d322c627fe42) |![게시글 수정/삭제](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/96cd9fdc-501a-4fd8-ad24-33cb74362190) |![게시물상세페이지](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/23a2aad9-6723-4a6d-8aa5-c33bb0d51fb1)|
+
+| <a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#1-게시물-등록">🔗게시물등록(이미지 다중선택 가능)</a> | <a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#2-게시물-상세-페이지">🔗게시글 수정/삭제</a> | <a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#2-게시물-상세-페이지">🔗게시글 상세</a> |
+| :--: | :--: | :--: |
+|              ![게시물등록](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/a1358ce4-ba22-489a-9076-1ddcbf2d6b8c)              |       ![게시글수정/삭제](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/41285b31-ab52-4066-9251-666bd9b1f54a)       |       ![게시글상세](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/779a9477-33c5-4d2f-96b3-697d268eaf5f)       ||
 |<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#1-게시물-등록">🔗좋아요</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#2-게시물-상세-페이지">🔗댓글 수정/삭제</a>|
-|  ![좋아요](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/25ec14c9-4239-47b4-88ea-77c9e9abeedc) |![댓글 등록/삭제](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/673e30dd-b669-4093-b5f9-7f7651d5aa86)|
+| ![좋아요](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/e4d6b785-2495-4cf2-b7ef-1cc70c94ee4d)| ![댓글수정:삭제](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/0dcbe450-9126-40dd-96ba-3703189b741b) |
 <br>
 
 ### 3) 프로필
-|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#1-마이-프로필">🔗마이 프로필</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#1-마이-프로필">🔗마이 프로필 수정</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#4-상품-등록">🔗상품 등록</a>|
-| :---: | :---: | :---: |
-|  ![마이 프로필](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/6ca88c63-0540-4711-897a-0bf39f15e80e) | ![마이 프로필 수정](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/84f8bc1e-8182-4f85-a546-d396cac6febf)| ![상품 등록](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/b54f222b-397a-4133-80dc-be509ae67f43)|
+
+| <a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#1-마이-프로필">🔗마이 프로필</a>  | <a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#1-마이-프로필">🔗마이 프로필 수정</a> |    <a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#4-상품-등록">🔗상품 등록</a>    |
+| :--: | :--: | :--: |
+| ![마이프로필](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/a0773d1f-3117-418f-b66a-1955b8fe875c) |  ![프로필 수정](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/e640eaea-ef82-4fce-9571-4759b4695a88)  | ![상품 등록](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/6a07fed4-d09d-48f9-8756-1525ea4d0b5a) |
 |<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#5-상품-수정삭제">🔗상품 수정/삭제</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#6-팔로잉팔로워">🔗팔로잉/팔로워</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#7-로그아웃">🔗로그아웃</a>|
-|![상품 수정/삭제](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/1594646a-689c-42f3-b3f1-202e722ddb72)| ![팔로잉/팔로워](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/e410e952-1e11-43d4-b8f4-51e50de04476)|![로그아웃](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/943d5eb3-c4d0-4bec-a597-aae4627d4b73)|
-  <br>
-  <br>
+|![상품수정/삭제](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/2048fbd3-aa54-488e-aa72-f2e0757616c8)| ![팔로잉/팔로워](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/2f562913-16f1-4f73-adca-39ccb9970a94)|![로그아웃](https://github.com/KwanBeom/final-21-WeMet21-Already29/assets/126222927/f15a7ea1-d093-4e48-afc8-dbef6a4f9f98)|
+<br>
 
 ## 6 개선 노력
+
 ```
-- 추후 확장 및 유지 보수를 고려해 `재사용되는 컴포넌트`는 별도로 common 폴더에서 관리하고 있습니다. 
-- 효율적인 작업상황을 고려하여 `반복되는 함수`는 utils 폴더로 따로 분리하여 사용했습니다.  
-- 이후 리팩토링시 진행 예정인 다크모드, 반응형 작업을 위해 `변수컬러와, rem 단위`를 사용하여 작업에 진행했습니다. 
+- 추후 확장 및 유지 보수를 고려해 `재사용되는 컴포넌트`는 별도로 common 폴더에서 관리하고 있습니다.
+- 효율적인 작업상황을 고려하여 `반복되는 함수`는 utils 폴더로 따로 분리하여 사용했습니다.
+- 이후 리팩토링시 진행 예정인 다크모드, 반응형 작업을 위해 `변수컬러와, rem 단위`를 사용하여 작업에 진행했습니다.
 - 사용자 경험을 고려하여 `UX 디자인 제작` (Footer를 통해 화면에서 바로 접근하기 어려운 페이지를 라우팅 하였습니다.)
 - `로딩 애니메이션`을 추가하여 사용자가 로딩 상태를 인지할 수 있도록 했습니다.
 - `useParams`를 이용해 사용자의 아이디를 받아와 정보를 띄워줍니다. 내 프로필에서는 상품 등록 및 프로필 수정 페이지로 이동할 수 있는 버튼이 나타나고, 다른 유저의 프로필에서는 팔로우 버튼이 나타납니다.
 - 댓글 모달 클릭시 내 댓글이면 삭제, 다른 유저의 댓글이면 신고 기능을 사용할 수 있습니다.
 ```
-<br>
+
 <br>
 
-## 7 느낀점 
+## 7 느낀점
 
 **🐯최범관**
 
