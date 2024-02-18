@@ -1,5 +1,5 @@
 ## 입9팔9
-![입구팔구 목업1](https://github.com/yonainthefish/kh/assets/124084624/1859d14e-1a99-421d-8303-3378f9b6d6d1)
+![입구팔구 목업1](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/2a81d592-6829-48e3-98ae-335a4693d37f)
 
 <br>
 <br>
@@ -28,7 +28,7 @@
 <br>
 
 > `입9팔9`는 데일리룩과 취향을 공유하는 SNS로 공유한 제품판매가 가능합니다. <br>`입9팔9`는 새컨핸드 제품 사용과 지속가능한 패션을 지향합니다. 
-![이용가이드](https://github.com/yonainthefish/kh/assets/124084624/46df0007-3ce3-4d87-a953-121e17dec410)
+![이용가이드](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/1c8022b7-ee77-4fce-bb92-a6e91a0c7b52)
  <br>
  <br>
  
@@ -43,8 +43,8 @@
 
 |FE 최범관|FE 박경보|FE 유하은|FE 한상헌|
 | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/yonainthefish/FE05-Project-Sooryen/assets/124084624/4ac018c7-f9f3-49c1-89e8-9e0523c69919.jpg" width="170" height="170"/> | <img src="https://github.com/kyeongboo-coder/kh/assets/126529523/29ee9d2f-859f-4a0f-8293-b453196c5cb6" width="170" height="170"/> | <img src="https://user-images.githubusercontent.com/124084624/249192266-dae00b28-0f85-40c2-a53c-6754c3a0ca30.png" width="170" height="170"/> | <img src="https://github.com/yonainthefish/FE05-Project-Sooryen/assets/124084624/9d2c1f67-82c0-4d91-8bf9-09be962044f4.jpg" width="170" height="170" /> |                                                          
-|  팀장 <br> <a href="https://github.com/KwanBeom"> 🔗 KwanBeom </a>| 팀원 <br> <a href="https://github.com/kyeongboo-coder">🔗 kyeongboo-coder </a> |팀원 <br> <a href="https://github.com/yonsinthefish">🔗yonainthefish </a>|팀원 <br> <a href="https://github.com/Skyllerrr">🔗 skyllerrr </a> |
+| <img src="https://github.com/yonainthefish/FE05-Project-Sooryen/assets/124084624/4ac018c7-f9f3-49c1-89e8-9e0523c69919.jpg" width="170" height="170"/> | <img src="https://github.com/kyeongbobak/ibgupalgu/assets/126529523/bd045687-fcc9-40e9-a4cf-7c803ef7e260" width="170" height="170"/> | <img src="https://user-images.githubusercontent.com/124084624/249192266-dae00b28-0f85-40c2-a53c-6754c3a0ca30.png" width="170" height="170"/> | <img src="https://github.com/yonainthefish/FE05-Project-Sooryen/assets/124084624/9d2c1f67-82c0-4d91-8bf9-09be962044f4.jpg" width="170" height="170" /> |                                                          
+|  팀장 <br> <a href="https://github.com/KwanBeom"> 🔗 KwanBeom </a>| 팀원 <br> <a href="https://github.com/kyeongbobak">🔗 kyeongbobak </a> |팀원 <br> <a href="https://github.com/yonsinthefish">🔗yonainthefish </a>|팀원 <br> <a href="https://github.com/Skyllerrr">🔗 skyllerrr </a> |
 팀 리딩 & 테크리딩 | 프로젝트 기획 & 진행, 문서화 | 로고 디자인 & 피그마제작  |유효성검사 & UI 개선|
 <br>
 
@@ -108,7 +108,8 @@
   <br> 
 
 ### [Git Flow]
-![image 21](https://github.com/kyeongboo-coder/kh/assets/126529523/ac923695-39be-4d2f-a3c9-548637548be3)
+- ### MAIN/FEATURE
+<img width="572" alt="스크린샷 2023-11-29 오후 6 43 12" src="https://github.com/kyeongbobak/ibgupalgu/assets/126529523/dfee3a83-920c-454d-beab-bf1b01fc25b6">
 
 <br>
 
@@ -193,28 +194,29 @@ remove      : 파일을 삭제하는 작업만 수행한 경우
 <br>
 
 ### 1) 홈 + 채팅
-|스플래시|이메일로 회원가입|프로필설정|
+|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/%F0%9F%93%91-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%83%81%EC%84%B8-%EC%84%A4%EB%AA%85#1-splash">🔗스플래시</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#2-이메일로-회원가입프로필-설정">🔗이메일로 회원가입</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#2-이메일로-회원가입프로필-설정">🔗프로필 설정</a>|
 | :---: | :---: | :---: |
-| ![스플래시](https://github.com/yonainthefish/kh/assets/124084624/4694c1cf-0552-4ef1-9396-aaa6f82b4942)|![이메일로회원가입](https://github.com/yonainthefish/kh/assets/124084624/bf7d70cd-db84-49d6-b61f-9d8fb33be8f2)|![프로필설정](https://github.com/yonainthefish/kh/assets/124084624/2ffd9ca4-878c-4c44-825c-ab7addcc666e)|
-|로그인|홈피드|유저검색|
-|![로그인](https://github.com/yonainthefish/kh/assets/124084624/6e700644-e9f7-431d-8436-e4d1832a00e7)|![홈피드](https://github.com/yonainthefish/kh/assets/124084624/4cf5a788-c9f0-4ee6-b78e-4ff671fbf909)|![유저검색](https://github.com/yonainthefish/kh/assets/124084624/49042a9d-e3a1-4b14-a4d7-15be3231a956)|
-|로딩페이지|
-|![로딩](https://github.com/yonainthefish/kh/assets/124084624/7195b06e-61e9-4711-a398-7e195be23643)|
+| ![스플래시](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/cbd4a9d4-f911-4a5a-a8bd-8edddb9d3fba)|![이메일로회원가입](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/869766f1-3814-4723-b7b7-4516747ee523)|![프로필설정](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/f97dcf15-42a5-4a55-9c59-62c6d6fa52c4)|
+|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#3-로그인">🔗로그인</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#4-홈피드">🔗홈피드</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#5-검색">🔗유저검색</a>|
+|![로그인](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/b7c183d2-7950-47d3-be11-93109d26ecbf)|![홈피드](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/1c0c4279-cc24-465e-b2b9-5e89eaac7831)|![유저검색](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/276a6dbe-43ee-4a5b-bee0-35ae27c0496d)|
+|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#3-로그인">🔗로딩페이지</a>|
+|![로딩](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/5a79f37a-5ce6-4d50-89cf-c0e854470988)|
 <br>
 
 ### 2) 게시물
-|게시물등록(다중선택)|게시물 수정/삭제|게시물 상세 페이지|
+|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#1-게시물-등록">🔗게시물등록(다중선택 가능)</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#2-게시물-상세-페이지">🔗게시글 수정/삭제</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#2-게시물-상세-페이지">🔗게시글 상세</a>|
 | :---: | :---: | :---: |
-| ![다중선택최종](https://github.com/yonainthefish/kh/assets/124084624/5a1fd75c-5486-4931-8fff-fe30a4764707) |![게시글수정삭제](https://github.com/yonainthefish/kh/assets/124084624/080a25e6-c8ed-4700-a93b-b692682c7afe) |![게시물상세페이지](https://github.com/yonainthefish/kh/assets/124084624/3efe774a-154f-4ecf-8b75-76bed4f2b2fc)|
+| ![다중선택최종](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/40824aa2-ced8-4fd7-8e13-d322c627fe42) |![게시글 수정/삭제](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/96cd9fdc-501a-4fd8-ad24-33cb74362190) |![게시물상세페이지](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/23a2aad9-6723-4a6d-8aa5-c33bb0d51fb1)|
+|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#1-게시물-등록">🔗좋아요</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#2-게시물-상세-페이지">🔗댓글 수정/삭제</a>|
+|  ![좋아요](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/25ec14c9-4239-47b4-88ea-77c9e9abeedc) |![댓글 등록/삭제](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/673e30dd-b669-4093-b5f9-7f7651d5aa86)|
 <br>
 
 ### 3) 프로필
-|내프로필|내프로필수정|상품등록|
+|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#1-마이-프로필">🔗마이 프로필</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#1-마이-프로필">🔗마이 프로필 수정</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#4-상품-등록">🔗상품 등록</a>|
 | :---: | :---: | :---: |
-|  ![내프로필](https://github.com/yonainthefish/kh/assets/124084624/e66cb77b-d17e-47df-8195-ed3b9e0069ec) | ![내프로필 수정](https://github.com/yonainthefish/kh/assets/124084624/44ea0dab-7edc-4a31-98d1-d58a7af0d6a7)| ![상품등록](https://github.com/yonainthefish/kh/assets/124084624/8ccaafc6-a201-4077-a2a3-a80f9bb162a2)|
-|상품수정/삭제|팔로잉/팔로워|로그아웃|
-|![상품수정삭제](https://github.com/yonainthefish/kh/assets/124084624/ecada9ed-8b33-4208-9eab-3596c779b18c)| ![팔로워팔로잉](https://github.com/yonainthefish/kh/assets/124084624/ed207478-d2a3-45e1-88e8-da47106fddb7)|![로그아웃](https://github.com/yonainthefish/kh/assets/124084624/9b3e7a6a-0617-4366-8722-3a5b3514c6da)|
-
+|  ![마이 프로필](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/6ca88c63-0540-4711-897a-0bf39f15e80e) | ![마이 프로필 수정](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/84f8bc1e-8182-4f85-a546-d396cac6febf)| ![상품 등록](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/b54f222b-397a-4133-80dc-be509ae67f43)|
+|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#5-상품-수정삭제">🔗상품 수정/삭제</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#6-팔로잉팔로워">🔗팔로잉/팔로워</a>|<a href="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/📑-페이지-상세-설명#7-로그아웃">🔗로그아웃</a>|
+|![상품 수정/삭제](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/1594646a-689c-42f3-b3f1-202e722ddb72)| ![팔로잉/팔로워](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/e410e952-1e11-43d4-b8f4-51e50de04476)|![로그아웃](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/943d5eb3-c4d0-4bec-a597-aae4627d4b73)|
   <br>
   <br>
 
